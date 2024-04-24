@@ -1,14 +1,19 @@
 # Expert Oracle Database Architecture: Techniques and Solutions for High Performance and Productivity
 TIME TO COMPLETE:
 - 25h 46m
+
 TOPICS:
 - Oracle Database Solutions
+
 PUBLISHED BY:
 - Apress
+
 PUBLICATION DATE:
 - November 2021
+
 PRINT LENGTH:
 - 1,169 pages
+
 DB use:
 - https://hub.docker.com/r/gvenzl/oracle-free
 
